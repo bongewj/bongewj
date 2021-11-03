@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bongewj
 - 👀 I’m interested in using data to drive decisions.
-- 🌱 I’m currently learning to use Python for data science and machine learning.
+- 🌱 I’m currently learning to use Python for data science and machine learning. This page chronicles my data science journey.
 
 <!---
 bongewj/bongewj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
