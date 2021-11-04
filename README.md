@@ -9,7 +9,7 @@
   - [Most Popular Bubble Tea Shops in Each Town](https://github.com/bongewj/BubbleTea/blob/main/BubbleTea.py): The most popular bubble tea franchises in each town were extracted and indicated on a map of Singapore. Data published by the Singapore Department of Statistics and information extracted using the Foursquare API were used.
   - [Evolution of SG Ministries' Budgets](https://github.com/bongewj/SGBudget/blob/main/SG%20Budget.py): The evolution of expenditures of each ministry over time was examined and plotted in an animation. Data extracted from Data.gov.sg was used.
 
-_Tools: Pandas, Seaborn, Matplotlib, Scipy, scikit-learn, Geopy Nominatim, Folium_
+_Tools: Pandas, Scipy, scikit-learn, Plotly, Seaborn, Matplotlib, Geopy Nominatim, Folium_
  
 - **Machine Learning**
   - [Identifying Business Opportunities in Tampines](https://github.com/bongewj/Coursera_Capstone/blob/master/Capstone%20Final%20Report_v2.ipynb): Recommendations on potentially underserved business categories were identified using data published by the Singapore Department of Statistics and information extracted using the Foursquare API.
