@@ -13,6 +13,8 @@ _Tools: Pandas, Scipy, scikit-learn, Plotly, Seaborn, Matplotlib, Geopy Nominati
  
 - **Machine Learning**
   - [Identifying Business Opportunities in Tampines](https://github.com/bongewj/Coursera_Capstone/blob/master/Capstone%20Final%20Report_v2.ipynb): Recommendations on potentially underserved business categories were identified using data published by the Singapore Department of Statistics and information extracted using the Foursquare API.
+
+_Tools: Pandas, scikit-learn, Matplotlib, Geopy Nominatim, Folium_
   
 <!---
 bongewj/bongewj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
