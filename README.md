@@ -6,9 +6,10 @@
 
 - **Data Analysis and Visualisation**
   - [Examining Effects of Wear on Body Armour](https://github.com/bongewj/BallisticTests/blob/main/BodyArmourWear.ipynb): The effects of wear and tear and wet/dry conditions on body armour performance against .22 and .38 cal rounds were examined. Data published by the NIJ and NRC was used. 
-  - [Most Popular Bubble Tea Shops in Each Town](https://github.com/bongewj/BubbleTea/blob/main/BubbleTea.py): The most popular bubble tea franchises in each town were extracted and indicated on a [map of Singapore](https://github.com/bongewj/BubbleTea/blob/main/mymap2.html). 
+  - [Most Popular Bubble Tea Shops in Each Town](https://github.com/bongewj/BubbleTea/blob/main/BubbleTea.py): The most popular bubble tea franchises in each town were extracted and indicated on a map of Singapore. 
+  - 
 
-_Tools: Pandas, Seaborn, Matplotlib, Scipy, scikit-learn_
+_Tools: Pandas, Seaborn, Matplotlib, Scipy, scikit-learn, Geopy Nominatim, Folium_
  
 - **Machine Learning**
   - [Identifying Business Opportunities in Tampines](https://github.com/bongewj/Coursera_Capstone/blob/master/Capstone%20Final%20Report_v2.ipynb): Recommendations on potentially underserved business categories were identified using data published by the Singapore Department of Statistics and information extracted using the Foursquare API.
