@@ -15,13 +15,17 @@
   - [Identifying Business Opportunities in Tampines](https://github.com/bongewj/Coursera_Capstone/blob/master/Capstone%20Final%20Report_v2.ipynb): Recommendations on potentially underserved business categories were identified using data published by the Singapore Department of Statistics and information extracted using the Foursquare API.
 
     _Tools: Pandas, scikit-learn, Matplotlib, Geopy Nominatim, Folium_
-    
+
+- **Web Scraping**
+
 - **Natural Language Processing**
 
 - **Optimisation**
   - [Finding Optimal Parameters for Autodyn Simulation](https://github.com/bongewj/ParameterOptimisation/blob/main/Parameter%20Optimisation.py): Curve fittings were attempted to results from a parameter sweep of Autodyn settings. Optimisations of fitted curves were performed to obtain optimal parameters to maxiimise accuracy of simulations. The set of parameters used for the "experiments" that generated the results was obtained using [experiment design tools](https://nps.edu/web/seed/software-downloads) available from the Naval Postgraduate School's SEED Center for Data Farming. 
 
     _Tools: Pandas, scikit-learn, Scipy_
+
+
 
 <!---
 bongewj/bongewj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
