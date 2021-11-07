@@ -17,6 +17,7 @@
     _Tools: Pandas, scikit-learn, Matplotlib, Geopy Nominatim, Folium_
 
 - **Web Scraping**
+  - [Extracting recent news on Sembcorp Marine](https://github.com/bongewj/WebScraping/blob/main/GoogleNewsScraper2.ipynb): Scraped multiple pages of Google search results to extract recent news articles on a desired topic (Sembcorp Marine) with the intent of understanding the effects of the news on stock price. A sample spider script can be found [here](https://github.com/bongewj/WebScraping/blob/main/GoogleNews%20-%20SembMarine.py). 
 
 - **Natural Language Processing**
 
