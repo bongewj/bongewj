@@ -19,7 +19,10 @@
 - **Web Scraping**
   - [Extracting recent news on Sembcorp Marine](https://github.com/bongewj/WebScraping/blob/main/GoogleNewsScraper2.ipynb): Scraped multiple pages of Google search results to extract recent news articles on a desired topic (Sembcorp Marine) with the intent of understanding the effects of the news on stock price. A sample spider script can be found [here](https://github.com/bongewj/WebScraping/blob/main/GoogleNews%20-%20SembMarine.py). 
 
+    _Tools: Scrapy
+
 - **Natural Language Processing**
+
 
 - **Optimisation**
   - [Finding Optimal Parameters for Autodyn Simulation](https://github.com/bongewj/ParameterOptimisation/blob/main/Parameter%20Optimisation.py): Curve fittings were attempted to results from a parameter sweep of Autodyn settings. Optimisations of fitted curves were performed to obtain optimal parameters to maxiimise accuracy of simulations. The set of parameters used for the "experiments" that generated the results was obtained using [experiment design tools](https://nps.edu/web/seed/software-downloads) available from the Naval Postgraduate School's SEED Center for Data Farming. 
