@@ -10,6 +10,9 @@
   - [Evolution of SG Ministries' Budgets](https://github.com/bongewj/SGBudget/blob/main/SG%20Budget.py): The evolution of expenditures of each ministry over time was examined and plotted in an animation. Data extracted from Data.gov.sg was used.
 
     _Tools: Pandas, Scipy, scikit-learn, Plotly, Seaborn, Matplotlib, Geopy Nominatim, Folium_
+
+- **SQL**
+  - [SQL Peer Assignment](https://github.com/bongewj/SQLAssignment): Extracted data from snapshots of 3 datasets available on the city of Chicago's Data Portal using SQL queries. 
  
 - **Machine Learning**
   - [Identifying Business Opportunities in Tampines](https://github.com/bongewj/Coursera_Capstone/blob/master/Capstone%20Final%20Report_v2.ipynb): Recommendations on potentially underserved business categories were identified using data published by the Singapore Department of Statistics and information extracted using the Foursquare API.
